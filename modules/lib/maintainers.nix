@@ -323,4 +323,10 @@
     github = "lukasngl";
     githubId = 69244516;
   };
+  mhueschen = {
+    name = "Michael Hueschen";
+    email = "mhuesch@users.noreply.github.com";
+    github = "mhuesch";
+    githubId = 1151946;
+  };
 }
